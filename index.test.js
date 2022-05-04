@@ -3,6 +3,12 @@
 - Criamos uma lista de lista de 4 itens, 3 ponto do triangulos e sua saida.
 - Implemantamos 3 funções, Cada função é um for-loop or each-loop que precorrer nossa lista de lista e testar nossa entrada e saida, 
 e retorna o resultado do teste.
+#Resultados: 
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 38 passed, 39 total
+Snapshots:   0 total
+Time:        0.425 s, estimated 1 s
+Ran all test suites.
 */
 const index = require('./index');
 
