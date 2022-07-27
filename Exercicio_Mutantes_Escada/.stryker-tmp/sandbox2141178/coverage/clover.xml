@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1658297857647" clover="3.2.0">
+  <project timestamp="1658297857647" name="All files">
+    <metrics statements="21" coveredstatements="5" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="1" elements="34" coveredelements="6" complexity="0" loc="21" ncloc="21" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="C:\Users\chris\OneDrive\Área de Trabalho\DCC-2022.2\ProjetoDeTeste\ProjetoTestSoftware\Exercicio_Escada_Grafo\index.js">
+      <metrics statements="21" coveredstatements="5" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="47" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="53" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
